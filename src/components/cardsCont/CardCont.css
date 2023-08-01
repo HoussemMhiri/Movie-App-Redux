@@ -1,0 +1,8 @@
+.cardsCont {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  place-content: center;
+  margin-left: 9em;
+  margin-top: 3em;
+}
